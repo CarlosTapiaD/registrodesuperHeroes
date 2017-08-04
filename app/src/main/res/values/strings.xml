@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Registro de SuperHeroes</string>
+    <string name="name">Nombre</string>
+    <string name="last_name">Apellidos</string>
+    <string name="nameHero">Nombre de heroe</string>
+    <string name="edad">Edad</string>
+    <string name="direccion">Direccion</string>
+    <string name="ciudad">Ciudad</string>
+    <string name="registrar">Registrar</string>
+    <string name="registrado">Tu registro ha sido satisfactorio</string>
+    <string name="nDetail"> prueba robles</string>
+</resources>
